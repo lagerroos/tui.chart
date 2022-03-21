@@ -82,7 +82,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "raphael": "https://github.com/nhn/raphael.git#2.2.0-c",
+    "raphael": "https://github.com/lagerroos/raphael.git#master",
     "tui-code-snippet": "^2.3.1"
   }
 }
